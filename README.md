@@ -1,93 +1,94 @@
-<div align="center">
-  <h1>MEKAI LAB</h1>
-  <p><strong>Digital products designed to compound.</strong></p>
-  <p>
-    <a href="https://mekailab.com">Website</a> ·
-    <a href="https://mekailab.gumroad.com">Gumroad</a> ·
-    <a href="https://www.linkedin.com/company/mekai-lab/">LinkedIn</a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://mekaigames.com"><img src="assets/banner.gif" alt="Mekai Games" width="100%"></a>
+</p>
 
-## Welcome
+<p align="center">
+  <a href="https://mekaigames.com"><img src="https://img.shields.io/badge/Website-mekaigames.com-ff784f?style=for-the-badge&labelColor=000000" alt="Website"></a>
+  <a href="https://mekai-games.itch.io"><img src="https://img.shields.io/badge/itch.io-mekai--games-ff784f?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=000000" alt="itch.io"></a>
+  <a href="https://store.steampowered.com/app/5131230/"><img src="https://img.shields.io/badge/Steam-GRAVENTH-ff784f?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000" alt="Steam"></a>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/@mekai_games"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://x.com/mekaigames"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/mekai.games/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@mekai_games"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+</p>
 
-MEKAI is a digital-first startup building products, systems, and tools that are meant to be sold online, operated with leverage, and improved through automation.
+<h2 align="center">We're Mekai Games, an independent studio from Italy.</h2>
 
-This GitHub profile is the public home of the brand.
+<p align="center">
+  We make mobile games, PC games on Steam and pixel art asset packs for other developers.
+</p>
 
-## What MEKAI Does
+---
 
-MEKAI operates across three main areas:
+## 🎮 Our games
 
-- iOS apps
-- Notion systems and templates
-- automation-first digital products and workflows
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://store.steampowered.com/app/5131230/"><img src="assets/games/graventh.png" alt="GRAVENTH" width="100%"></a>
+      <br><b>GRAVENTH</b>
+      <br><sub>Descend into dangerous caves, mine resources, fight creatures and escape with your loot.</sub>
+      <br><sub>PC · Steam</sub>
+      <br><a href="https://store.steampowered.com/app/5131230/"><img src="https://img.shields.io/badge/Wishlist_on-Steam-ff784f?style=flat-square&logo=steam&logoColor=white&labelColor=000000" alt="Wishlist on Steam"></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://apps.apple.com/app/id6819195187"><img src="assets/games/tidy-tiles.gif" alt="Tidy Tiles" width="100%"></a>
+      <br><b>Tidy Tiles</b>
+      <br><sub>A cozy sliding puzzle: guide a tiny robot vacuum and clean every dusty tile.</sub>
+      <br><sub>iOS</sub>
+      <br><a href="https://apps.apple.com/app/id6819195187"><img src="https://img.shields.io/badge/Download_on_the-App_Store-ff784f?style=flat-square&logo=apple&logoColor=white&labelColor=000000" alt="Download on the App Store"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://apps.apple.com/app/id6786811820"><img src="assets/games/mine-fever.gif" alt="Mine Fever" width="100%"></a>
+      <br><b>Mine Fever</b>
+      <br><sub>A fast pixel art mining roguelite: dig, collect gems and push deeper every run.</sub>
+      <br><sub>iOS</sub>
+      <br><a href="https://apps.apple.com/app/id6786811820"><img src="https://img.shields.io/badge/Download_on_the-App_Store-ff784f?style=flat-square&logo=apple&logoColor=white&labelColor=000000" alt="Download on the App Store"></a>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/games/burger-stack.gif" alt="Burger Stack" width="100%">
+      <br><b>Burger Stack</b>
+      <br><sub>Stack and sort burgers in a quick, juicy puzzle game.</sub>
+      <br><sub>iOS</sub>
+      <br><img src="https://img.shields.io/badge/Coming_soon-000000?style=flat-square&logo=apple&logoColor=white" alt="Coming soon">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/games/hearthtide.gif" alt="Hearthtide" width="100%">
+      <br><b>Hearthtide</b>
+      <br><sub>Build your island village by day and defend it from the tide by night.</sub>
+      <br><sub>iOS</sub>
+      <br><img src="https://img.shields.io/badge/Coming_soon-000000?style=flat-square&logo=apple&logoColor=white" alt="Coming soon">
+    </td>
+    <td width="50%" align="center">
+      <a href="https://mekai-games.itch.io"><img src="assets/robot-series.gif" alt="Robot Series" width="100%"></a>
+      <br><b>Robot Series</b>
+      <br><sub>Animated pixel art robots for your games, 8 directions.</sub>
+      <br><sub>Asset packs · itch.io</sub>
+      <br><a href="https://mekai-games.itch.io"><img src="https://img.shields.io/badge/Get_it_on-itch.io-ff784f?style=flat-square&logo=itchdotio&logoColor=white&labelColor=000000" alt="Get it on itch.io"></a>
+    </td>
+  </tr>
+</table>
 
-The company focuses on products that can be launched lean, distributed online, and expanded into a compounding ecosystem over time.
+## 🛠️ How we build
 
-## Product Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
+  <img src="https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godotengine&logoColor=ff784f" alt="GDScript">
+  <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
+  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
 
-### iOS Portfolio
+## 📬 Contact
 
-MEKAI is developing a growing portfolio of iOS products and experiments, including:
+Business and press: [mekai.official.games@gmail.com](mailto:mekai.official.games@gmail.com)
 
-- Scia
-- Filo
-- Pactra
-- Capsule
-- EveningStack
-- LifeXP
-- Signalist
-- Rectoria
-
-### Notion Systems
-
-MEKAI also builds operating systems and workflow templates for creators, founders, freelancers, and small digital businesses, including:
-
-- Startup OS
-- Content Creator OS
-- Freelance Business OS
-- Agency & Consultant OS
-- Investor CRM Lite
-- Sponsorship Tracker
-- Proposal & Invoice Kit
-
-## How MEKAI Builds
-
-MEKAI is building a portfolio around:
-
-- digital products with repeatable revenue potential
-- systems that reduce manual work
-- launches that become long-term distribution assets
-- automation layers powered by code, workflows, and AI
-
-## Featured Public Project
-
-### [release-to-content](https://github.com/MEKAI-LAB/release-to-content)
-
-Turn one changelog into launch-ready content for:
-
-- App Store release notes
-- X posts and threads
-- Reddit drafts
-- email updates
-- website changelog blocks
-
-This is the first public utility in the MEKAI ecosystem and it is designed for founders, indie developers, and product teams that want better distribution from every release.
-
-### [mekai-longitudinal-vehicle-starter-lite](https://github.com/MEKAI-LAB/mekai-longitudinal-vehicle-starter-lite)
-
-Public discovery repo for MEKAI engineering products in MATLAB / Simulink.
-
-- longitudinal vehicle dynamics starter model
-- automotive speed-control prototyping baseline
-- discovery layer for the full commercial MEKAI engineering release
-
-## Technology
-
-Swift, TypeScript, React, Vite, Tailwind, Notion, AI workflows, and automation systems
-
-## Public Profile
-
-Most of MEKAI's work is currently being developed in private while products are being refined and launched.
-
-This profile will gradually expand with selected releases, experiments, public assets, and open documentation from the MEKAI ecosystem.
+<p align="center">
+  <a href="https://mekaigames.com"><img src="assets/footer.png" alt="Mekai Games" width="100%"></a>
+</p>
