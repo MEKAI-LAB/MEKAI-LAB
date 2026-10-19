@@ -14,7 +14,7 @@
   <a href="https://www.tiktok.com/@mekai_games"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
-<h2 align="center">We're Mekai Games, an independent studio from Italy.</h2>
+<h2 align="center">We're Mekai Games, a game studio from Italy.</h2>
 
 <p align="center">
   We make mobile games, PC games on Steam and pixel art asset packs for other developers.
